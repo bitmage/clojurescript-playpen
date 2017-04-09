@@ -1,0 +1,16 @@
+{
+  "name": "clojurescript-playpen",
+  "version": "1.0.0",
+  "description": "Playing around with clojurescript.",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "author": "q@bitmage.net",
+  "license": "ISC",
+  "dependencies": {
+    "clojurescript": "0.0.11",
+    "express": "^4.15.2",
+    "torch": "^0.2.6"
+  }
+}
