@@ -10,3 +10,4 @@ npm run server
 # Resources
 
 [Clojurescript/Javascript interop](http://www.spacjer.com/blog/2014/09/12/clojurescript-javascript-interop/)
+[cljs-oops](https://github.com/binaryage/cljs-oops)
